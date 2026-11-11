@@ -3,6 +3,7 @@
   "minecraft": "1.21",
   "loader": {"name": "neoforge", "version": "21.0.167"},
   "files": [
+    {"path": "mods/BetterCompatibilityChecker-neoforge-21.0.1+mc1.21.jar", "sha1": "6b43bc148e8fb7d440a1d226e2d7d170237ab15a", "size": 25667, "curseforge": {"projectId": 551894, "fileId": 5432277, "url": "https://edge.forgecdn.net/files/5432/277/BetterCompatibilityChecker-neoforge-21.0.1%2bmc1.21.jar"}},
     {"path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip", "sha1": "838139b54cddb56b2e83cd260d8efd960ac536d6", "size": 553397, "curseforge": {"projectId": 627557, "fileId": 8884654, "url": "https://edge.forgecdn.net/files/8884/654/ComplementaryReimagined_r5.9.3.zip"}}
   ]
 }
